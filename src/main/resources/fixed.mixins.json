@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.dubhemc.fixed.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fixed.refmap.json",
+  "mixins": [
+    "MixinFilterManager"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
