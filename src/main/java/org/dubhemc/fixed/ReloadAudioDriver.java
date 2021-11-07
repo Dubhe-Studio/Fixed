@@ -19,7 +19,7 @@ import org.lwjgl.glfw.GLFW;
 
 
 @Mod("fixed")
-@Mod.EventBusSubscriber
+@Mod.EventBusSubscriber(value = Dist.CLIENT)
 public class ReloadAudioDriver {
 
     public static final String MODID = "fixed";
