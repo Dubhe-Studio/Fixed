@@ -5,9 +5,9 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "fixed.refmap.json",
   "mixins": [
-    "MixinFilterManager"
   ],
   "client": [
+    "MixinFilterManager"
   ],
   "injectors": {
     "defaultRequire": 1

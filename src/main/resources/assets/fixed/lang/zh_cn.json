@@ -1,0 +1,5 @@
+{
+  "fixed.reload_audio_driver.details": "F3 + R = 音频驱动重载",
+  "fixed.reload_audio_driver.toast.title": "音频驱动重载",
+  "fixed.reload_audio_driver.toast.body": "重载成功!"
+}
