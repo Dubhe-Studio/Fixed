@@ -1,0 +1,5 @@
+{
+  "fixed.reload_audio_driver.details": "F3 + R = Reload audio drivers",
+  "fixed.reload_audio_driver.toast.title": "Reload Audio Drivers",
+  "fixed.reload_audio_driver.toast.body": "Successfully reloaded!"
+}
